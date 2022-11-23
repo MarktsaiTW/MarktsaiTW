@@ -1,4 +1,6 @@
-### Hi there 👋
+## Mark #MarktsaiTW
+
+Hi, I'm Mark! Master of the computer science fresh graduates from National Taipei University of Education. 
 
 <!--
 **MarktsaiTW/MarktsaiTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
